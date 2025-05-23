@@ -1,3 +1,3 @@
 # python-learning
-my python learnings
+This is my first Github repository
 Author - Keshav Dubey
